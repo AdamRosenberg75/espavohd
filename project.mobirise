@@ -171,7 +171,7 @@
           },
           "title": "<br>HAIR&nbsp;DESIGN",
           "text": "<br>At Espavo, <br>we bring out <br>everyone’s <br>inner shine. <br>Our clients receive <br>5-star treatment <br>in tranquil <br>surroundings, <br>away from the <br>hustle and bustle <br>of the mall.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+2710 597 6689\" data-toolbar=\"-mbrBtnMove\">BOOK AN APPOINTMENT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#map1-7\" data-toolbar=\"-mbrBtnMove\">VISIT OUR SALON</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://app.acuityscheduling.com/schedule.php?owner=15064451&quot;\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOOK AN APPOINTMENT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html#map1-7\" data-toolbar=\"-mbrBtnMove\">VISIT OUR SALON</a>",
           "_tags": [
             "Theme"
           ],
