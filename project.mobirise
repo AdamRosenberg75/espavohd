@@ -36,7 +36,8 @@
     "google-analytics": "",
     "versionFirst": "4.6.2",
     "uniqCompNum": 14,
-    "versionPublish": "4.6.2"
+    "versionPublish": "4.6.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -156,7 +157,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/color-2867144-1923-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/color-2867144-1920-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -400,7 +401,7 @@
           },
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/bg2-1400x600.png",
             "parallax": true,
@@ -423,21 +424,6 @@
           "_anchor": "social-buttons3-4"
         },
         {
-          "_params": {
-            "googleMap": {
-              "address": "528 Hole-In-One Ave, Ruimsig, Roodepoort, 1724",
-              "placeId": "ChIJJZKtwJKelR4RMP_D8LW1FK8",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-7"
-        },
-        {
           "_inherit": "features4",
           "_params": {
             "showImages": true,
@@ -446,8 +432,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -574,6 +560,21 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-d"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "528 Hole-In-One Ave, Ruimsig, Roodepoort, 1724",
+              "placeId": "ChIJJZKtwJKelR4RMP_D8LW1FK8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-7"
         },
         {
           "_params": {
