@@ -112,7 +112,7 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": false,
+            "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
@@ -126,7 +126,7 @@
             "fontColor": "#c0a375",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-d\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://my.setmore.com/bookanappointmentv3.do?uniqueKey=814d934f-5230-43c6-9c94-ccf72dbcb35c\" target=\"_blank\">BOOKINGS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-d\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"https://my.setmore.com/bookanappointmentv3.do?uniqueKey=814d934f-5230-43c6-9c94-ccf72dbcb35c\" target=\"_blank\">BOOKINGS</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -153,11 +153,11 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/color-2867144-1920-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/color-2867144-1924-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
