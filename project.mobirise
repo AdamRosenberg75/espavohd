@@ -43,10 +43,10 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Espavo",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<!-- Calendly badge widget begin -->\n<link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n<script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">Calendly.initBadgeWidget({url: 'https://calendly.com/adamrosenberg-espavo', text: 'BOOK ONLINE', color: '#ffffff', });</script>\n<!-- Calendly badge widget end -->",
+        "footer_custom": "<!-- Calendly badge widget begin -->\n<link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n<script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\"></script>\n<script type=\"text/javascript\">Calendly.initBadgeWidget({url: 'https://calendly.com/espavo_01', text: 'BOOK ONLINE', color: '#ffffff', });</script>\n<!-- Calendly badge widget end -->",
         "html_before": ""
       },
       "components": [
