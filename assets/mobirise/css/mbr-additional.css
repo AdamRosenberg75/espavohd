@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -809,6 +813,26 @@ h6,
 #testimonials3-5 .card-footer > div {
   text-align: center;
   color: #c0a375;
+}
+#features1-o .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #242d37;
+}
+#features1-o .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #c0a375;
+}
+#features1-o .mbr-cards-col:nth-child(even) .card-subtitle {
+  color: #151c2f;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+#features1-o .mbr-cards-col:nth-child(even) .card-subtitle B {
+  color: #151c2f;
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-o .mbr-cards-col:nth-child(odd) .card-subtitle B {
+  font-family: 'Montserrat', sans-serif;
 }
 #social-buttons3-4 .mbr-section-title,
 #social-buttons3-4 .btn-social {
